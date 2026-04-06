@@ -1,4 +1,3 @@
-# Mastermind Group — Session End Instructions
+# Mastermind Group
 
-No active programme instructions for this group yet.
-
+No current content for this group.
