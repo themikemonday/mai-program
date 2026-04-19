@@ -5,7 +5,7 @@ routes:
     identity: content/codec-identity.md
     capabilities: content/codec-capabilities.md
     environment: content/codec-environment.md
-    onboarding: content/codec-onboard.md
+    start: content/codec-start.md
 ---
 
 # Founder Group
