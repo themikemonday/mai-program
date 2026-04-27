@@ -6,6 +6,8 @@ routes:
     capabilities: content/codec-capabilities.md
     environment: content/codec-environment.md
     start: content/codec-start.md
+  MAILAB:
+    tmm: content/tmm.md
 ---
 
 # Founder Group
